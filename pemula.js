@@ -1,7 +1,5 @@
 
----
 
-```javascript
 // ============================================
 // pemula.js - Belajar Coding Dasar dengan JavaScript
 // ============================================
